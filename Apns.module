@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,push.apple.com,Proxies
-DOMAIN-SUFFIX,akadns.net,Proxies
-DOMAIN-KEYWORD,apple.com.edgekey.net,Proxies
+DOMAIN-SUFFIX,sandbox.push.apple.com,Proxies
+DOMAIN-SUFFIX,api.push.apple.com,Proxies
+DOMAIN-SUFFIX,gateway.push.apple.com,Proxies
+
 IP-CIDR,17.249.0.0/16,Proxies,no-resolve
 IP-CIDR,17.252.0.0/16,Proxies,no-resolve
 IP-CIDR,17.57.144.0/22,Proxies,no-resolve
